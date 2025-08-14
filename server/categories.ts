@@ -1,0 +1,20 @@
+export const CATEGORIES: string[] = [
+  'Electronics',
+  'Electronics > Audio > Headphones',
+  'Electronics > Audio > Speakers',
+  'Electronics > Cameras > Digital Cameras',
+  'Electronics > Communications > Telephony > Mobile Phone Accessories',
+  'Electronics > Communications > Telephony > Mobile Phones',
+  'Electronics > Computers > Desktop Computers',
+  'Electronics > Computers > Laptops',
+  'Electronics > Computers > Tablets',
+  'Electronics > Gaming > Video Game Consoles',
+  'Electronics > Home Audio > Home Theater Systems',
+  'Electronics > Mobile Phones > Smartphones',
+  'Electronics > Video > Televisions',
+  'Electronics > Wearables > Fitness Trackers',
+  'Electronics > Wearables > Smartwatches',
+  'Electronics > Storage > External Hard Drives',
+  'Electronics > Networking > Routers',
+  'Electronics > Printers > Inkjet Printers'
+]
